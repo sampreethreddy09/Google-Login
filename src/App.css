@@ -1,0 +1,15 @@
+*{
+  margin: 0.8%;
+}
+
+.Box{
+  background-color:white;
+  border-radius: 10px;
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+
+.steppers{
+  background-color:white;
+  border-radius: 10px;
+}
